@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1672351966 source:c:\users\msi\desktop\voyage\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1672436051 source:c:\users\msi\desktop\voyage\voyage.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
